@@ -8,12 +8,15 @@ var gameOptions = {
 
     // prize names, starting from 12 o'clock going clockwise
     slicePrizes: [
-        "🎉 5% OFF",
-        "🎉 10% OFF",
-        "🎉 15% OFF",
-        "🎉 25% OFF",
-        "🎉 50% OFF",
-        "🎉 FREE PASTRY 🍰"
+        "PL",
+        "TL",
+        "Agus",
+        "Emi",
+        "Iván",
+        "Juli",
+        "JL",
+        "Luci",
+        "Cele"
     ],
 
     // wheel rotation duration, in milliseconds
